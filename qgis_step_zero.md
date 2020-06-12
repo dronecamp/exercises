@@ -34,9 +34,9 @@ Unzip the data to a location of your choice (your Desktop or Documents folder ar
 2. Under the "Project" tab select "New" to create a new project (or `ctrl + n`)
 3. Under the "Project" tab select "Save As..." (`ctrl + shift + s`) to save the project. Give it a name like *crop_analysis.qgz*.
 
- Tip 1: You can save your QGIS project anywhere, but putting in the same location as the data folder will make it easier to find and move.
+* Tip 1: You can save your QGIS project anywhere, but putting in the same location as the data folder will make it easier to find and move.
 
- Tip 2: It is a good idea to regularly save projects while working on them (`ctrl + s`).
+* Tip 2: It is a good idea to regularly save projects while working on them (`ctrl + s`).
 
 ## 5. Add a Raster Layer
 
@@ -44,16 +44,18 @@ Imagery from drones and satellites are generally saved in *raster* files (i.e., 
 
 1. Add a raster layer by going to `Layer` >> `Add Layer` >> `Add Raster Layer...` (or `ctrl + shift + r`). This opens the *Data Source Manager*.
 
+![](img/qgis_data_source_manager_444x400x256.png)
+
 2. Make sure the `Source type` radio button is selected to be `File`.
 
 3. Click the `...` button and find  the *Solano_4l7l20_index_ndre.tif* file (in the `example_data` folder).
 
-4. Choose `Add` to add the image to the project, then close the `Data Source Manager`.
+4. Choose `Add` to add the image to the project, then `Close` the Data Source Manager.
 
 ## 6. Conclusion
 
 Can you see the raster layer? If so, **you're done!**
 
-![](img/check-in-1.png)
+![](img/check-in-1_1024x576.png)
 
 If not, check the steps and if you still can't figure it out please come to one of the [Drop-In Tech-Support](https://dronecamp.github.io/2020/index.html#schedule-at-a-glance) sessions the week before DroneCamp.
