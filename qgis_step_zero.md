@@ -16,11 +16,11 @@ QGIS is available on Windows, macOS, Linux and Android. Please note that the Dro
 
 **Launch QGIS**. If it opens, you're in business!
 
-## 2. Download the Workshop Data
+## 2. Download a Zipped TIF Image
 
-The data for the workshop have been zipped up into a single file which you can download from:
+Please download the following sample tif file (which contains a vegetation index of field - we'll learn how to make this during the workshop). The tif file has been compressed as a zip file.
 
-https://github.com/tnelsen/Drone-Data-in-Agricultural-Research/archive/data.zip
+https://github.com/dronecamp/exercises/raw/master/data/Solano_4l7l20_index_ndre.zip
 
 Be sure to take note where the zip file goes! (When in doubt look in your Downloads folder).
 
